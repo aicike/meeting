@@ -1,0 +1,11 @@
+D:\Project2\Meeting\EF\bin\Debug\EF.dll.config
+D:\Project2\Meeting\EF\bin\Debug\EF.dll
+D:\Project2\Meeting\EF\bin\Debug\EF.pdb
+D:\Project2\Meeting\EF\bin\Debug\EntityFramework.dll
+D:\Project2\Meeting\EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project2\Meeting\EF\bin\Debug\EntityFramework.xml
+D:\Project2\Meeting\EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project2\Meeting\EF\obj\Debug\EF.dll
+D:\Project2\Meeting\EF\obj\Debug\EF.pdb
+D:\Project2\Meeting\EF\obj\Debug\EF.Migrations.Update.resources
+D:\Project2\Meeting\EF\obj\Debug\EF.csproj.GenerateResource.Cache

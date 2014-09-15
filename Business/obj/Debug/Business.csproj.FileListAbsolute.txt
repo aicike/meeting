@@ -1,0 +1,9 @@
+D:\Project2\Meeting\Business\bin\Debug\Business.dll
+D:\Project2\Meeting\Business\bin\Debug\Business.pdb
+D:\Project2\Meeting\Business\bin\Debug\EF.dll
+D:\Project2\Meeting\Business\bin\Debug\EntityFramework.dll
+D:\Project2\Meeting\Business\bin\Debug\EF.pdb
+D:\Project2\Meeting\Business\bin\Debug\EntityFramework.xml
+D:\Project2\Meeting\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\Project2\Meeting\Business\obj\Debug\Business.dll
+D:\Project2\Meeting\Business\obj\Debug\Business.pdb
